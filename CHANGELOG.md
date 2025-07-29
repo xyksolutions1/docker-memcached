@@ -1,3 +1,9 @@
+## 2.5.26 2025-07-29 <dave at tiredofit dot ca>
+
+   ### Added
+      - Memcached 1.6.39
+
+
 ## 2.5.25 2025-03-21 <dave at tiredofit dot ca>
 
    ### Added
