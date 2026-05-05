@@ -1,4 +1,4 @@
-FROM docker.io/tiredofit/alpine:3.21
+FROM docker.io/xyksolutions1/docker-alpine:main
 LABEL maintainer="Dave Conroy (github.com/tiredofit)"
 
 ## Set Environment Variables
